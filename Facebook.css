@@ -1,0 +1,65 @@
+button{
+       width: 200px;
+       lenght: 100px
+       
+       
+     }
+    h2{
+      color: blue ;
+      text-align: center;
+    }
+    
+      #Ha{
+        color: white;
+        background-color: blue;
+        border-radius: 20px;
+        
+      }
+      #Yo{
+        color: white;
+        background-color: blue;
+        border-radius: 20px;
+      }
+      body{
+        background-image: src
+      ;
+      }
+     button{
+       width : 150px;
+       height: 30px;
+     }
+  .P{
+    height:30px;
+    width:270px;
+    border-radius: 20px;
+    
+  }
+     body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #f0f2f5;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+img {
+    margin: 0;
+    padding: 0;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+  h4{
+    text-align: center;
+    }
+    .Me{
+      
+    margin: 0;
+    padding: 0;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+ #Me{
+   margin: 100px;
+ }
