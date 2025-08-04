@@ -5,19 +5,19 @@ button{
        
      }
     h2{
-      color: blue ;
+      color: #1877F2 ;
       text-align: center;
     }
     
       #Ha{
         color: white;
-        background-color: blue;
+        background-color: #1877F2;
         border-radius: 20px;
         
       }
       #Yo{
         color: white;
-        background-color: blue;
+        background-color: #1877F2;
         border-radius: 20px;
       }
       body{
@@ -27,6 +27,7 @@ button{
      button{
        width : 150px;
        height: 30px;
+       text-decoration: none;
      }
   .P{
     height:30px;
@@ -42,11 +43,11 @@ button{
     text-align: center;
 }
 img {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     display: block;
-    max-width: 100%;
-    height: auto;
+    height: 32px;
+    width: 32px;
 }
 
   h4{
@@ -54,12 +55,12 @@ img {
     }
     .Me{
       
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     display: block;
-    max-width: 100%;
-    height: auto;
+    height: 16px;
+    width: 16px;
+    
 }
- #Me{
-   margin: 100px;
- }
+ 
+ 
